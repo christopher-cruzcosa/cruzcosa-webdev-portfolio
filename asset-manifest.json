@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/cruzcosa-webdev-portfolio/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/cruzcosa-webdev-portfolio/static/js/main.824f836d.chunk.js",
-    "main.js.map": "/cruzcosa-webdev-portfolio/static/js/main.824f836d.chunk.js.map",
-    "runtime-main.js": "/cruzcosa-webdev-portfolio/static/js/runtime-main.8b6fba89.js",
-    "runtime-main.js.map": "/cruzcosa-webdev-portfolio/static/js/runtime-main.8b6fba89.js.map",
-    "static/js/2.e207c05d.chunk.js": "/cruzcosa-webdev-portfolio/static/js/2.e207c05d.chunk.js",
-    "static/js/2.e207c05d.chunk.js.map": "/cruzcosa-webdev-portfolio/static/js/2.e207c05d.chunk.js.map",
-    "static/js/3.bcb80be4.chunk.js": "/cruzcosa-webdev-portfolio/static/js/3.bcb80be4.chunk.js",
-    "static/js/3.bcb80be4.chunk.js.map": "/cruzcosa-webdev-portfolio/static/js/3.bcb80be4.chunk.js.map",
+    "main.css": "/cruzcosa-webdev-portfolio/static/css/main.171822fb.chunk.css",
+    "main.js": "/cruzcosa-webdev-portfolio/static/js/main.067c6a71.chunk.js",
+    "main.js.map": "/cruzcosa-webdev-portfolio/static/js/main.067c6a71.chunk.js.map",
+    "runtime-main.js": "/cruzcosa-webdev-portfolio/static/js/runtime-main.94ec9190.js",
+    "runtime-main.js.map": "/cruzcosa-webdev-portfolio/static/js/runtime-main.94ec9190.js.map",
+    "static/js/2.8a244299.chunk.js": "/cruzcosa-webdev-portfolio/static/js/2.8a244299.chunk.js",
+    "static/js/2.8a244299.chunk.js.map": "/cruzcosa-webdev-portfolio/static/js/2.8a244299.chunk.js.map",
+    "static/js/3.a4115403.chunk.js": "/cruzcosa-webdev-portfolio/static/js/3.a4115403.chunk.js",
+    "static/js/3.a4115403.chunk.js.map": "/cruzcosa-webdev-portfolio/static/js/3.a4115403.chunk.js.map",
     "index.html": "/cruzcosa-webdev-portfolio/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/cruzcosa-webdev-portfolio/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.e207c05d.chunk.js.LICENSE.txt": "/cruzcosa-webdev-portfolio/static/js/2.e207c05d.chunk.js.LICENSE.txt"
+    "static/css/main.171822fb.chunk.css.map": "/cruzcosa-webdev-portfolio/static/css/main.171822fb.chunk.css.map",
+    "static/js/2.8a244299.chunk.js.LICENSE.txt": "/cruzcosa-webdev-portfolio/static/js/2.8a244299.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b6fba89.js",
-    "static/js/2.e207c05d.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.824f836d.chunk.js"
+    "static/js/runtime-main.94ec9190.js",
+    "static/js/2.8a244299.chunk.js",
+    "static/css/main.171822fb.chunk.css",
+    "static/js/main.067c6a71.chunk.js"
   ]
 }
