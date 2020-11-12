@@ -13,7 +13,7 @@ This project is made up of three pages (Index, Contact, Portfolio) with a link t
 
 ## Usage 
 
-![page screenshot](./assets/images/screenshot1.png)
+![page screenshot](./public/images/screenshot1.png)
 
 
 
